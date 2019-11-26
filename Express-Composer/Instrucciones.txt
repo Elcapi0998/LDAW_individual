@@ -1,0 +1,7 @@
+1) Encontrar en la carpeta donde se encuentra el archivo Dockerfile\
+2)  docker-compose build\
+3) docker-compose up -d\
+**  Acceder al bash del contenedor para correr express**\
+4) docker ps //para obtener el id del contenedor\
+5) docker exec -it [container -id] bash\
+5) npm start}
